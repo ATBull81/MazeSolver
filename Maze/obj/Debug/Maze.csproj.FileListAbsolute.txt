@@ -1,0 +1,10 @@
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\bin\Debug\Maze.exe.config
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\obj\Debug\Maze.csprojResolveAssemblyReference.cache
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\obj\Debug\Maze.Form1.resources
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.Cache
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\bin\Debug\Maze.exe
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\bin\Debug\Maze.pdb
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\bin\Debug\Ksu.Cis300.MazeLibrary.dll
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\obj\Debug\Maze.exe
+c:\users\alec\documents\visual studio 2015\Projects\Maze\Maze\obj\Debug\Maze.pdb
